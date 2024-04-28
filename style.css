@@ -1,0 +1,22 @@
+body {
+  background-color: #000000;
+  font-family: "Poppins", sans-serif;
+}
+.wrapper {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+}
+h1 {
+  width: 100vw;
+  font-size: 8rem;
+  font-weight: 800;
+  text-align: center;
+  background: url(./untitled.gif);
+  background-size: 150%;
+  background-position: center;
+  background-repeat: none;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
